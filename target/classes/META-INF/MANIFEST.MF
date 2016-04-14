@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: my-project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: admin
+Implementation-Vendor-Id: main.java.com
+Build-Jdk: 1.8.0_65
+Created-By: Maven Integration for Eclipse
+
